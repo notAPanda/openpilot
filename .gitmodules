@@ -1,9 +1,10 @@
 [submodule "panda"]
   path = panda
   url = ../../commaai/panda.git
-[submodule "opendbc"]
+[submodule "opendbc_repo"]
   path = opendbc_repo
-  url = ../../commaai/opendbc.git
+	url = https://github.com/notAPanda/opendbc.git
+	branch = 23_civic_hybrid_europe
 [submodule "msgq"]
   path = msgq_repo
   url = ../../commaai/msgq.git
